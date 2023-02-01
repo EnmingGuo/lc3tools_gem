@@ -1,0 +1,7 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	INFINITE_LOOP     4002
+//	NUM_2             4003
+

@@ -1,0 +1,3 @@
+    .ORIG x0025
+    TRAP_HALT .FILL x0100
+    .END

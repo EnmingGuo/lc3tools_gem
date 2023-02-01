@@ -1,0 +1,35 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ELSE_1            010B
+//	ELSE_2            0119
+//	END_ELSE_2        0119
+//	END_ELSE_1        0119
+//	ELSE_3            0123
+//	ELSE_4            0131
+//	END_ELSE_4        0131
+//	END_ELSE_3        0131
+//	ELSE_5            013B
+//	ELSE_6            0149
+//	END_ELSE_6        0149
+//	END_ELSE_5        0149
+//	ELSE_7            0153
+//	ELSE_8            0161
+//	END_ELSE_8        0161
+//	END_ELSE_7        0161
+//	ELSE_9            016B
+//	ELSE_10           0179
+//	END_ELSE_10       0179
+//	END_ELSE_9        0179
+//	INFINITE_LOOP     017A
+//	Process_1         017B
+//	Process_2         017C
+//	Process_3         017D
+//	Process_4         017E
+//	Process_5         017F
+//	Array             0180
+//	ONE               0181
+//	TWO               0182
+//	ZERO              0183
+
